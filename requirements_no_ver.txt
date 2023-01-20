@@ -1,0 +1,17 @@
+contourpy
+cycler
+Cython
+efficient-apriori
+fonttools
+fpgrowth-py
+kiwisolver
+matplotlib
+numpy
+packaging
+pandas
+Pillow
+pycspade
+pyparsing
+python-dateutil
+pytz
+six
